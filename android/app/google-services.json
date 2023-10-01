@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839903669129",
+    "project_id": "ubuntu-villages",
+    "storage_bucket": "ubuntu-villages.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839903669129:android:f2972f50cd9cacc7d68f58",
+        "android_client_info": {
+          "package_name": "com.example.ubuntu_villages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839903669129-5tht3ldvnfsp7moe1qgfcbdn2sm63vgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBloH9a3RqBfIqWoGWb9Z5rznpGfXTQ05o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839903669129-5tht3ldvnfsp7moe1qgfcbdn2sm63vgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
